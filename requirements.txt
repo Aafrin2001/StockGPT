@@ -1,0 +1,11 @@
+streamlit
+yfinance
+pandas
+numpy
+nltk
+sumy
+prophet
+statsmodels
+scikit-learn
+tensorflow==2.15.0
+plotly
